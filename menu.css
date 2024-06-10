@@ -8,15 +8,55 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./resources/patomenu1.webp);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    opacity: 0.5;
+    background-color: black;
 }
 
 .patomenu h2{
     font-size: 50px;
     letter-spacing: 10px;
     color: whitesmoke;
+}
+
+.startmain{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 160px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: rgb(241, 241, 241);
+}
+
+.startmain span{
+    color: rgb(143, 143, 143);
+}
+
+.startmain h2{
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+.span {
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.stdr{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.starters{
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+}
+
+.pine{
+    display: flex;
+    flex-direction: column;
 }
