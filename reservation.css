@@ -1,0 +1,13 @@
+.reservation{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    padding-top: 70px;
+}
+
+.center{
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+ }

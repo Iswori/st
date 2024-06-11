@@ -175,3 +175,63 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.maepic{
+    height: 100px;
+    width: 150px;
+    border-radius: 20px;
+    background-image: url(./resources/dinner-01.jpg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pinpic{
+    height: 100px;
+    width: 150px;
+    border-radius: 20px;
+    background-image: url(./resources/dinner-02.jpg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nutpic{
+    height: 100px;
+    width: 150px;
+    border-radius: 20px;
+    background-image: url(./resources/dinner-03.jpg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.suspic{
+    height: 100px;
+    width: 150px;
+    border-radius: 20px;
+    background-image: url(./resources/dinner-04.jpg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.craspic{
+    height: 100px;
+    width: 150px;
+    border-radius: 20px;
+    background-image: url(./resources/dinner-05.jpg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tempic{
+    height: 100px;
+    width: 150px;
+    border-radius: 20px;
+    background-image: url(./resources/lunch-06.jpg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
