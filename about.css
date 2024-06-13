@@ -1,0 +1,31 @@
+.storyitalian{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.storyp{
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+   justify-items: center;
+   text-align: center;
+   font-size: 18px;
+}
+
+/* .aboutuspic{
+   
+        background-image: url(./resources/our-story-01.jpg.webp);
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 350px;
+        width:100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    
+} */
